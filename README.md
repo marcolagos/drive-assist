@@ -1,6 +1,6 @@
-# Autonomous Vehicle Project
+# Drive Assist Feature
 
-An autonomous car that utilizes a BeagleBone and a camera to navigate along a blue taped path, programmed follow the path while maintaining a consistent speed, navigating 
+A car with drive assist that utilizes a BeagleBone and a camera to navigate along a blue taped path, programmed follow the path while maintaining a consistent speed, navigating 
 turns, and coming to a brief stop at stop signs or red papers on the ground.
 
 ## Tuning Control Parameters
